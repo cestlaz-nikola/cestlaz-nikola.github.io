@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>C'est la Z</title><link>http://cestlaz.github.io/</link><description>C'est la Z</description><atom:link href="http://cestlaz.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Mon, 17 Sep 2018 00:31:33 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Blight Move</title><link>http://cestlaz.github.io/posts/blight-move/</link><dc:creator>Mike Zamansky</dc:creator><description>&lt;div id="outline-container-orgfdb6e96" class="outline-2"&gt;
-&lt;h2 id="orgfdb6e96"&gt;&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-orgfdb6e96"&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>C'est la Z</title><link>http://cestlaz.github.io/</link><description>C'est la Z</description><atom:link href="http://cestlaz.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Wed, 19 Sep 2018 23:47:52 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Blight Move</title><link>http://cestlaz.github.io/posts/blight-move/</link><dc:creator>Mike Zamansky</dc:creator><description>&lt;div id="outline-container-org41e54c7" class="outline-2"&gt;
+&lt;h2 id="org41e54c7"&gt;&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org41e54c7"&gt;
 &lt;p&gt;
 It was Jon and Amy's wedding. Jon was my student back in the day so
 there were a handful of Stuy alums there to celebrate the
@@ -136,9 +136,9 @@ It's just another reminder of the impact we can have and the
 responsibility we must take seriously as teachers.
 &lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description><guid>http://cestlaz.github.io/posts/blight-move/</guid><pubDate>Sun, 16 Sep 2018 20:37:09 GMT</pubDate></item><item><title>Creating a school for CS</title><link>http://cestlaz.github.io/posts/creating-a-school/</link><dc:creator>Mike Zamansky</dc:creator><description>&lt;div id="outline-container-org6a3afbf" class="outline-2"&gt;
-&lt;h2 id="org6a3afbf"&gt;&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org6a3afbf"&gt;
+&lt;/div&gt;</description><guid>http://cestlaz.github.io/posts/blight-move/</guid><pubDate>Sun, 16 Sep 2018 20:37:09 GMT</pubDate></item><item><title>Creating a school for CS</title><link>http://cestlaz.github.io/posts/creating-a-school/</link><dc:creator>Mike Zamansky</dc:creator><description>&lt;div id="outline-container-orgc9e98c1" class="outline-2"&gt;
+&lt;h2 id="orgc9e98c1"&gt;&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgc9e98c1"&gt;
 &lt;p&gt;
 &lt;a href="http://blog.acthompson.net/2018/09/do-we-really-need-cs-focused-high.html"&gt;Do we really need CS focused high schools?&lt;/a&gt;
 &lt;/p&gt;
@@ -333,9 +333,9 @@ nice.
 "
 &lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description><category>cs</category><category>policy</category><category>schools</category><guid>http://cestlaz.github.io/posts/creating-a-school/</guid><pubDate>Tue, 11 Sep 2018 22:06:09 GMT</pubDate></item><item><title>That Time Bill Gates Visited AFSE</title><link>http://cestlaz.github.io/posts/that-time-bill-gates-visited-afse/</link><dc:creator>Mike Zamansky</dc:creator><description>&lt;div id="outline-container-org4f4cbba" class="outline-2"&gt;
-&lt;h2 id="org4f4cbba"&gt;&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org4f4cbba"&gt;
+&lt;/div&gt;</description><category>cs</category><category>policy</category><category>schools</category><guid>http://cestlaz.github.io/posts/creating-a-school/</guid><pubDate>Tue, 11 Sep 2018 22:06:09 GMT</pubDate></item><item><title>That Time Bill Gates Visited AFSE</title><link>http://cestlaz.github.io/posts/that-time-bill-gates-visited-afse/</link><dc:creator>Mike Zamansky</dc:creator><description>&lt;div id="outline-container-orga5ff815" class="outline-2"&gt;
+&lt;h2 id="orga5ff815"&gt;&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orga5ff815"&gt;
 &lt;p&gt;
 AFSE stands for the Academy for Software Engineering. It's a public
 school in New York City with a stated focus on, well, software
@@ -447,9 +447,9 @@ desirable to "techy" kids since CS will be available at many schools
 or will it make it easier to get non tech types. Time will tell. 
 &lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description><guid>http://cestlaz.github.io/posts/that-time-bill-gates-visited-afse/</guid><pubDate>Sun, 09 Sep 2018 19:09:04 GMT</pubDate></item><item><title>Do you need to know binary for CS?</title><link>http://cestlaz.github.io/posts/why-binary/</link><dc:creator>Mike Zamansky</dc:creator><description>&lt;div id="outline-container-orgadd9252" class="outline-2"&gt;
-&lt;h2 id="orgadd9252"&gt;&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-orgadd9252"&gt;
+&lt;/div&gt;</description><guid>http://cestlaz.github.io/posts/that-time-bill-gates-visited-afse/</guid><pubDate>Sun, 09 Sep 2018 19:09:04 GMT</pubDate></item><item><title>Do you need to know binary for CS?</title><link>http://cestlaz.github.io/posts/why-binary/</link><dc:creator>Mike Zamansky</dc:creator><description>&lt;div id="outline-container-org2643399" class="outline-2"&gt;
+&lt;h2 id="org2643399"&gt;&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org2643399"&gt;
 &lt;p&gt;
 Yesterday, Alfred Thompson asked &lt;a href="https://twitter.com/alfredtwo/status/1036982959587446784"&gt;"Why is it important for CS students
 to understand binary?"&lt;/a&gt; on Twitter which led to a number of interesting
@@ -736,9 +736,9 @@ for your kids.
 world
 &lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description><category>cs</category><category>mathjax</category><guid>http://cestlaz.github.io/posts/why-binary/</guid><pubDate>Wed, 05 Sep 2018 21:15:01 GMT</pubDate></item><item><title>Wishing all K12 teachers a great year</title><link>http://cestlaz.github.io/posts/starting-school-2018/</link><dc:creator>Mike Zamansky</dc:creator><description>&lt;div id="outline-container-org0e37a62" class="outline-2"&gt;
-&lt;h2 id="org0e37a62"&gt;&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org0e37a62"&gt;
+&lt;/div&gt;</description><category>cs</category><category>mathjax</category><guid>http://cestlaz.github.io/posts/why-binary/</guid><pubDate>Wed, 05 Sep 2018 21:15:01 GMT</pubDate></item><item><title>Wishing all K12 teachers a great year</title><link>http://cestlaz.github.io/posts/starting-school-2018/</link><dc:creator>Mike Zamansky</dc:creator><description>&lt;div id="outline-container-org37a5380" class="outline-2"&gt;
+&lt;h2 id="org37a5380"&gt;&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org37a5380"&gt;
 &lt;p&gt;
 Today was the first day of school for all NYC teachers. Students come
 back tomorrow. That's a quick turnaround. Some years, they get a day
@@ -797,9 +797,9 @@ In the meantime to all the teachers meeting their students tomorrow -
 have a great semester!!!!!
 &lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description><guid>http://cestlaz.github.io/posts/starting-school-2018/</guid><pubDate>Tue, 04 Sep 2018 21:33:30 GMT</pubDate></item><item><title>Class Rules</title><link>http://cestlaz.github.io/posts/class-rules/</link><dc:creator>Mike Zamansky</dc:creator><description>&lt;div id="outline-container-org44f33c0" class="outline-2"&gt;
-&lt;h2 id="org44f33c0"&gt;&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org44f33c0"&gt;
+&lt;/div&gt;</description><guid>http://cestlaz.github.io/posts/starting-school-2018/</guid><pubDate>Tue, 04 Sep 2018 21:33:30 GMT</pubDate></item><item><title>Class Rules</title><link>http://cestlaz.github.io/posts/class-rules/</link><dc:creator>Mike Zamansky</dc:creator><description>&lt;div id="outline-container-orgf5d004d" class="outline-2"&gt;
+&lt;h2 id="orgf5d004d"&gt;&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgf5d004d"&gt;
 &lt;p&gt;
 Classes started up again today so I thought I'd talk about my class
 rules.
@@ -924,9 +924,9 @@ important. Do I make in impact with any of this? I can't be sure but
 I think it's important enough to make the effort.
 &lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description><guid>http://cestlaz.github.io/posts/class-rules/</guid><pubDate>Mon, 27 Aug 2018 22:57:25 GMT</pubDate></item><item><title>Artifacts Have Stories</title><link>http://cestlaz.github.io/posts/artifacts-have-stories/</link><dc:creator>Mike Zamansky</dc:creator><description>&lt;div id="outline-container-org5017cfe" class="outline-2"&gt;
-&lt;h2 id="org5017cfe"&gt;&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org5017cfe"&gt;
+&lt;/div&gt;</description><guid>http://cestlaz.github.io/posts/class-rules/</guid><pubDate>Mon, 27 Aug 2018 22:57:25 GMT</pubDate></item><item><title>Artifacts Have Stories</title><link>http://cestlaz.github.io/posts/artifacts-have-stories/</link><dc:creator>Mike Zamansky</dc:creator><description>&lt;div id="outline-container-org72e54aa" class="outline-2"&gt;
+&lt;h2 id="org72e54aa"&gt;&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org72e54aa"&gt;
 &lt;p&gt;
 Earlier today I was asked about my avatar:
 &lt;/p&gt;
@@ -1052,9 +1052,9 @@ inspiration to current students while at the same time reminding me of
 my past and my shared journey with so many of my students.
 &lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description><guid>http://cestlaz.github.io/posts/artifacts-have-stories/</guid><pubDate>Fri, 24 Aug 2018 21:35:25 GMT</pubDate></item><item><title>Software Longevity</title><link>http://cestlaz.github.io/posts/software-longevity/</link><dc:creator>Mike Zamansky</dc:creator><description>&lt;div id="outline-container-org4eb7fa6" class="outline-2"&gt;
-&lt;h2 id="org4eb7fa6"&gt;&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org4eb7fa6"&gt;
+&lt;/div&gt;</description><guid>http://cestlaz.github.io/posts/artifacts-have-stories/</guid><pubDate>Fri, 24 Aug 2018 21:35:25 GMT</pubDate></item><item><title>Software Longevity</title><link>http://cestlaz.github.io/posts/software-longevity/</link><dc:creator>Mike Zamansky</dc:creator><description>&lt;div id="outline-container-orgdee9aef" class="outline-2"&gt;
+&lt;h2 id="orgdee9aef"&gt;&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgdee9aef"&gt;
 &lt;p&gt;
 Writing about &lt;a href="http://cestlaz.github.io/posts/rite-of-passage-projects/#.W3l-fxhKhhE"&gt;old projects&lt;/a&gt; got me thinking of my first programming gig
 and software longevity. It was a part time after school / full time
@@ -1206,9 +1206,9 @@ All the more reason to do better than I did and learn how to do it
 right. 
 &lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description><guid>http://cestlaz.github.io/posts/software-longevity/</guid><pubDate>Sun, 19 Aug 2018 14:16:43 GMT</pubDate></item><item><title>Rite Of Passage Projects</title><link>http://cestlaz.github.io/posts/rite-of-passage-projects/</link><dc:creator>Mike Zamansky</dc:creator><description>&lt;div id="outline-container-orgb08052c" class="outline-2"&gt;
-&lt;h2 id="orgb08052c"&gt;&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-orgb08052c"&gt;
+&lt;/div&gt;</description><guid>http://cestlaz.github.io/posts/software-longevity/</guid><pubDate>Sun, 19 Aug 2018 14:16:43 GMT</pubDate></item><item><title>Rite Of Passage Projects</title><link>http://cestlaz.github.io/posts/rite-of-passage-projects/</link><dc:creator>Mike Zamansky</dc:creator><description>&lt;div id="outline-container-orgc2f13ce" class="outline-2"&gt;
+&lt;h2 id="orgc2f13ce"&gt;&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgc2f13ce"&gt;
 &lt;p&gt;
 JCS's &lt;a href="https://irreal.org/blog/?p=7414#comment-4045190612"&gt;post&lt;/a&gt; on Irreal today brought me back. It was about &lt;a href="https://en.wikipedia.org/wiki/Brief_(text_editor)"&gt;Brief&lt;/a&gt; which
 was the editing hotness back in the day. I played with it a little
@@ -1326,9 +1326,9 @@ pretty typical one for students these days.
 Any others?
 &lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description><category>C</category><category>cs</category><category>emacs</category><category>programming</category><category>projects</category><guid>http://cestlaz.github.io/posts/rite-of-passage-projects/</guid><pubDate>Fri, 17 Aug 2018 19:18:11 GMT</pubDate></item><item><title>Early Code Reuse</title><link>http://cestlaz.github.io/posts/early-code-reuse/</link><dc:creator>Mike Zamansky</dc:creator><description>&lt;div id="outline-container-orgef9434b" class="outline-2"&gt;
-&lt;h2 id="orgef9434b"&gt;&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-orgef9434b"&gt;
+&lt;/div&gt;</description><category>C</category><category>cs</category><category>emacs</category><category>programming</category><category>projects</category><guid>http://cestlaz.github.io/posts/rite-of-passage-projects/</guid><pubDate>Fri, 17 Aug 2018 19:18:11 GMT</pubDate></item><item><title>Early Code Reuse</title><link>http://cestlaz.github.io/posts/early-code-reuse/</link><dc:creator>Mike Zamansky</dc:creator><description>&lt;div id="outline-container-orgad29f14" class="outline-2"&gt;
+&lt;h2 id="orgad29f14"&gt;&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgad29f14"&gt;
 &lt;p&gt;
 I've been following the tweets coming out of &lt;a href="https://icer.acm.org/"&gt;ICER2018&lt;/a&gt;. I've never been
 to ICER but now am thinking about trying to get funding to go next
